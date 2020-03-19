@@ -17,5 +17,6 @@ Sistem Informasi Desa Kaliwining adalah aplikasi berbasis web yang mengelola dat
     Taruh folder kaliwining di htdocs
   </li>
   <li>
-    Untuk mengaksesnya pertama harus login. linknya <a>localhost/kaliwining/login</a>
+    Untuk mengaksesnya pertama harus login. linknya 
+    > localhost/kaliwining/login
   </li>
