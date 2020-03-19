@@ -5,5 +5,17 @@ Sistem Informasi Desa Kaliwining adalah aplikasi berbasis web yang mengelola dat
 ## Cara Membuka
 <ol>
   <li>
-    1. clone github
-    2. sf
+    Clone github
+  </li>
+  <li>
+    Disini yang dibutuhkan hanya folder kaliwining dan isinya beserta database kaliwining.sql
+  </li>
+  <li>
+    Import terlebih dahulu databasenya
+  </li>
+  <li>
+    Taruh folder kaliwining di htdocs
+  </li>
+  <li>
+    Untuk mengaksesnya pertama harus login. linknya localhost/kaliwining/login
+  </li>
