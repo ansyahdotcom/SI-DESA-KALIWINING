@@ -20,3 +20,22 @@ Sistem Informasi Desa Kaliwining adalah aplikasi berbasis web yang mengelola dat
     Untuk mengaksesnya pertama harus login. linknya 
     <blockquote> localhost/kaliwining/login </blockquote>
   </li>
+  <li>
+    login dengan username "didin" dan password "didin"
+  </li>
+  <li>
+    Klik menu tabel. Ada dua pilihan antara menampilkan Data Kartu Keluarga dan Data Penduduk
+  </li>
+  <li>
+    Di dalam tabel Data Kartu Keluarga terdapat data KK, RT, RW, kepala keluarga dan alamatnya
+  </li>
+  <li>
+    Di dalam tabel Data Penduduk berisi data detail dari anggota keluarga. Seperti NIK, tanggal dan tempat lahir,
+    jenis kelamin dan agama, pendidikan serta pekerjaan.
+  </li>
+  <li>
+    Kedua fitur tersebut dapat melakukan tambah, ubah, dan hapus data
+  </li>
+  <li>
+    Fitur lain adalah logout yang bisa keluar dari halaman admin dan kembali ke halaman login.
+  </li>
